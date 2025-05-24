@@ -1,0 +1,29 @@
+/target/
+
+# IDEs
+.idea/
+*.iml
+*.iws
+.vscode/
+*.classpath
+*.project
+*.settings/
+nbproject/private/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+.Spotlight-V100
+.Trashes
+Desktop.ini
+
+# Others
+*.log
+*.swp
+*.bak
+*.tmp
+*.orig
+
